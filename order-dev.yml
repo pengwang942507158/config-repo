@@ -21,4 +21,5 @@ ribbon:
 PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule  #配置负载均衡（随机）
-env: dev4800
+env: dev1
+
